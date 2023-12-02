@@ -1,4 +1,4 @@
-// AOC23 D2
+// AOC23 D2P1
 // https://adventofcode.com/2023/day/2
 // answer: 2720
 
