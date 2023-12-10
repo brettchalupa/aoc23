@@ -1,0 +1,7 @@
+answer: 6931
+
+time to run: 3.378s
+
+submissions:
+
+- 6925 --- too low; didn't account for non-connected neighbors
